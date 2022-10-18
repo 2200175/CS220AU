@@ -44,4 +44,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 ### in week 3
-- help students fork the repo and understand its code structure, etc. 
+- writte notes from videos 
+- rewritte notes in inbox
+- rewritte notes to permanent
+- start thinking in a question linking digital identities and existencial risk
