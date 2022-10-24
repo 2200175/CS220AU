@@ -40,6 +40,10 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined
 - 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
 
+-2022-10-24 have watched the three videos and taking notes from them 
+-2022-10-24 exposed the main ideas of the videos in inbox 
+-2022-10-24 rewritte and link all the videos on a writting page 
+-2022-10-24 strated thinking on existencial risks and their link between digital identities. 
 <br>
 
 ## TODO
