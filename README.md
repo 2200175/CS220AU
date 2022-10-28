@@ -46,9 +46,22 @@ How to use this GitHub repository as a template for your submission, including h
 -2022-10-24 strated thinking on existencial risks and their link between digital identities. 
 <br>
 
+- 2022-10-28 have read news, articles and reports of the threaten of existencial risks 
+- 2022-10-28 choose nuclear holocaust as the existencial risk i want to focus on 
+- 2022-10-28 investigate about the nuclear risk that my country (spain) actually has 
+- 2022-10-28 read about disaster alert systems implemented in spain since nuclear threaten aorund europe. 
+- 2022-10-28 writte an essay about how nuclear holocaust can be reduced by our digital identity 
+
 ## TODO
 ### in week 3
 - writte notes from videos 
 - rewritte notes in inbox
 - rewritte notes to permanent
 - start thinking in a question linking digital identities and existencial risk
+
+### in week 4 
+- read articles about existencial risks 
+- think about how to link existencial risks with digital identities 
+- choose one existencial risk 
+- formulate the question (with both concepts linked) 
+- writte in an article/essay the relationship between both concepts 
