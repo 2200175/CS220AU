@@ -52,6 +52,9 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-10-28 read about disaster alert systems implemented in spain since nuclear threaten aorund europe. 
 - 2022-10-28 writte an essay about how nuclear holocaust can be reduced by our digital identity 
 
+- 2022-10-31 create and upload my visitors and residence map 
+- 2022-10-31 wrote and email to the teacher in order to clarify some important doubts 
+
 ## TODO
 ### in week 3
 - writte notes from videos 
@@ -65,3 +68,8 @@ How to use this GitHub repository as a template for your submission, including h
 - choose one existencial risk 
 - formulate the question (with both concepts linked) 
 - writte in an article/essay the relationship between both concepts 
+
+### in week 5 
+- create my visitors and residence map 
+- learn how to upload an image in github and do it 
+- clarify myself in where do i have to upload my writing 
