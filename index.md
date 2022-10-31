@@ -10,7 +10,7 @@ And [this](https://duckduckgo.com/?q=existential+risks&t=brave&ia=web&iai=https%
 ## Embedding images
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
-![Plain VR map](assets/img/vr-map-plain.svg)
+
 ![Plain VR map](assets/img/esquema.png)
 
 
