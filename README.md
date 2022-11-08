@@ -55,6 +55,11 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-10-31 create and upload my visitors and residence map 
 - 2022-10-31 wrote and email to the teacher in order to clarify some important doubts 
 
+- 2022-11-8 rewritte some parts of the essay 
+- 2022-11-8 formulate some questions regarding digital identities and critical thinking 
+- 2022-11-8 learn how to use titles and subtitles in github 
+- 2022-11-8 post all my writting into the index part with all their subtitles 
+
 ## TODO
 ### in week 3
 - writte notes from videos 
@@ -73,3 +78,8 @@ How to use this GitHub repository as a template for your submission, including h
 - create my visitors and residence map 
 - learn how to upload an image in github and do it 
 - clarify myself in where do i have to upload my writing 
+
+### in week 6 
+- expand the report with some moral questions using critical thinking 
+- learn how to create titles and subtitles in github 
+- upload the report in the "index" part of the website, and organise it with subtitles. 
