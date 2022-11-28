@@ -60,6 +60,18 @@ How to use this GitHub repository as a template for your submission, including h
 - 2022-11-8 learn how to use titles and subtitles in github 
 - 2022-11-8 post all my writting into the index part with all their subtitles 
 
+- 2022-11-15 read articles about goverment and citizens privacy 
+- 2022-11-15 search about laws in Europe that protects data 
+
+- 2022-11-22 wrote an article using critical thinking about how can goverments benefit from our personal data 
+
+- 2022-11-28 wrote an article about ethical practice and data protection
+- 2022-11-28 reestructure the article 
+- 2022-11-28 watch videos about ethics and data in youtube
+
+
+
+
 ## TODO
 ### in week 3
 - writte notes from videos 
@@ -83,3 +95,15 @@ How to use this GitHub repository as a template for your submission, including h
 - expand the report with some moral questions using critical thinking 
 - learn how to create titles and subtitles in github 
 - upload the report in the "index" part of the website, and organise it with subtitles. 
+
+### in week 7 
+- read articles about goverment and citizens privacy 
+- search about laws in Europe that protects data 
+
+### in week 8 
+- writte an article using critical thinking about how can goverments benefit from our personal data 
+
+### in week 9 
+- wirtte an article about ethical practice and data protection
+- reestructure the article 
+- watch videos about ethics and data in youtube 
