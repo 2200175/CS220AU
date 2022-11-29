@@ -2,7 +2,7 @@
 
 ## The first step towards decreasing the existential risk is awareness
 Our digital identities can be used to inform the public of these risks and raise awareness of important topics that can lead in extreme cases to human extinction. 
-In this case, I have chosen a Nuclear holocaust as an important existential risk. 
+In this case, I have chosen a Nuclear holocaust as an important existential risk. In these articles I intend to explore more deeply the risk of a nuclear attack, and how some governments, through alerts on our mobile phones, may be collecting data about us, all those traces we leave on the networks, which are becoming more and more numerous, and therefore invading our privacy. It is here that different ethical questions were raised that I will try to address in these articles. 
 
 ## Nuclear risk is real 
 Due to the war between Russia and Ukraine Europe and the rest of the world have seen how easy is for a country to threaten with a nuclear attack. 
@@ -24,22 +24,28 @@ Spain has already started testing the new disaster alert a few days ago.
 The Directorate General of Civil Protection oversees launching this new system of alerts to the population called ES-Alert, which will send warnings directly to the mobile phones of citizens affected by a possible emergency or catastrophe. This system has been tested in all communities. Many phones will receive a text alert accompanied by a beep warning of an impending emergency.
 
 ## Moral questions to take into account  
-Somehow therefore, mobile phones will be tracked and disrupted by this signal, and although most of the population believes it is a good way to be alerted, to what extent would the government be invading our privacy, and collecting data on our digital identities? So, who is going to handle this data and for what purpose?  
+Somehow therefore, mobile phones will be tracked and disrupted by this signal, and although most of the population believes it is a good way to be alerted, to what extent would the government be invading our privacy, and collecting data on our digital identities? So, who is going to handle this data and for what purpose?
 
+## Have we given consent? 
+Mobile privacy is the order of the day. More and more users are concerned about preventing their personal data from being exposed during their daily interaction with different mobile resources: mobile applications, the use of apps with geolocation, mobile websites, etc. Therefore, when creating an app, security should be paramount.
 
-![Plain VR map](assets/img/esquema.png)
+Nowadays, more and more people surf the web in the resident mode, introduced by Marc Prensky, which is based on the fact that users surf the web leaving a social trace that remains there after they go offline.
+In this mode, people think the web as a series of spaces or places, for being present with other people online. 
 
+To what extent can governments access our mobile phone to send a warning signal, for example a nuclear alert, even if the user has not given prior consent? 
+It is conceivable that governments or companies could use this invasion of privacy as an excuse to extract these traces of our digital identity and use them for commercial purposes, for example. 
+Thus, without the user's express consent, users' privacy would be violated.
 
-Below you see an example of embedding an image that is found in another repository:
+## Current ethical practices and data protection
+The report "Data, Privacy & The Individual. Getting Privacy Right in the Digital Era", published today by IE University's Center for the Governance of Change (CGC), in collaboration with Telefónica Digital Policy Lab, explores some of the key ethical issues related to privacy raised by emerging technologies. It also looks at new technical methods that governments and companies can use to harness information while respecting existing regulation and maintaining the trust of both their customers and citizens.
+Data is the main fuel of our digital economy. Our financial transactions, movements, communications, relationships and interactions with governments and businesses generate data that is collected, bought and sold.
 
-![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
+Establishing ethical data practices and developing technical means to protect sensitive data are two key pillars to keep citizens safe and overcome the privacy challenges we face in the digital age.
 
-## Embedding video players
+Citizens have begun to understand the real cost of using digital technologies and our society is having to relearn the value of privacy through the negative consequences of privacy breaches. In fact, according to a survey of more than 1,000 citizens included in this report, negative experiences related to online privacy are extremely common: 92% of citizens have had at least one privacy breach in their lives and this number will continue to grow in the coming years. 
+The report also reveals that 97% of citizens believe that privacy is a right, and 82% of respondents consider privacy to be extremely or very important. Similarly, 88% of respondents consider violations of the right to privacy to be one of the most important dangers facing citizens in the digital age.
+This research also confirms that many of the ethical challenges we face today are related to power asymmetries: when it comes to data, individuals are systematically at a disadvantage vis-à-vis companies and governments. In this context, the report urges companies to do what they can to empower users and increase their autonomy.
+In addition, it says we should invest more in developing better privacy tools and better digital ethics. "If we invested a fraction of what we are investing in the development of Artificial Intelligence in privacy and ethics, we would have much more reason to be optimistic about the future of the digital age," say the researchers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## More examples
-
-Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
 
 
