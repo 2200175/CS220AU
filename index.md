@@ -23,6 +23,30 @@ our digital identities may not be able to stop a catastrophe, but they can help 
 Spain has already started testing the new disaster alert a few days ago. 
 The Directorate General of Civil Protection oversees launching this new system of alerts to the population called ES-Alert, which will send warnings directly to the mobile phones of citizens affected by a possible emergency or catastrophe. This system has been tested in all communities. Many phones will receive a text alert accompanied by a beep warning of an impending emergency.
 
+## SWOT Analysis
+In order to analyze the weaknesses, strengths, threats and opportunities of the government's warnings via the population's mobile phones, I have carried out a SWOT analysis. 
+
+ Weaknesses: with this system, the government leaves out people who do not have mobile phones, such as the elderly. By not having a mobile phone, these people would be at risk, because if they do not have someone with a mobile phone at their side who can receive the alert, they would be much more likely to flee the disaster site, and would therefore be subject to a much higher level of radiation. 
+
+ This weakness could be turned into an opportunity if the government were to give free of charge to those who do not have a mobile phone an adapted telephone. They could also give classes to the elderly on how to use the phones, thus including those people who have been excluded due to the rapid spread of technology. 
+
+ Strengths: lives would be saved, as thanks to the alert, the population could flee and protect themselves from radiation. At a time when every minute counts, receiving this alert would save time. 
+
+ Threats: in the future, this text message warning could be converted into an application where the current status of the nuclear power plant, radiation levels and subsequent warnings from the government, recommendations and bans could be seen. In this way, the government, through the app, would be able to collect much more of our private data. 
+Another threat is that the government may not be an expert in nuclear attacks and therefore the population is only focusing on the information provided by one actor. 
+
+Therefore, the question arises here: wouldn't it be better to decentralise this government app and turn it into apps created by private companies, which would therefore encourage competition, making each app better and better. 
+ 
+On the one hand, we should analyse the benefits of the app being centralised, because if the government controls it, citizens theoretically have no doubts about the information they are receiving, i.e. they trust that the information is verified and official as it comes from a government body. Moreover, if the information is centralised, it does not give rise to fake news, as no one doubts the legitimacy of the information transmitted by a country's government. 
+
+On the other hand, the harms of a government-controlled app would also have to be analysed. It could be that the best experts in nuclear energy do not work together with the government, and therefore the information communicated through the app is not 100% accurate. 
+By centralising the app, it could lead to certain citizens criticising the app, proposing improvements and certain governments, such as that of China, for example, where there is neither full democracy nor full freedom of expression, applying sanctions, such as imprisonment, to those citizens who question the app. 
+
+Benefits of decentralizing the application would basically be that it would encourage competition and therefore innovation and development. It would therefore allow different companies to create an application where they could receive all the necessary information in the event of a nuclear attack. In this way, citizens would have not just one application, but four, for example. The fact of having several of them allows people to obtain information from different media and contrast what they are receiving in a free way and at the same time ensure that the information comes from experts, as they can see who exactly is transmitting the information to them. 
+
+In opposition, decentralizing implementation would also have its drawbacks. People could be victims of fake news, receiving alerts that might not be true. For example, a video of a nuclear attack from years ago could be disseminated pretending that it is current, and these applications could give the warning without having been properly contrasted. Another drawback could be the uncertainty that it could cause people about whether a warning is true or not, as there are so many applications. Perhaps one disproves it and the other affirms it, and this would therefore lead to confusion and uncertainty for the population.
+
+
 ## Moral questions to take into account  
 Somehow therefore, mobile phones will be tracked and disrupted by this signal, and although most of the population believes it is a good way to be alerted, to what extent would the government be invading our privacy, and collecting data on our digital identities? So, who is going to handle this data and for what purpose?
 
