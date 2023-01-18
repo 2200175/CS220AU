@@ -10,6 +10,7 @@ The continued offensives by both sides have put the safety of Ukraine's nuclear 
 
 In fact Russia has in the last few weeks conducted a nuclear test attack, which Russian President Vladimir Putin himself says the potential for conflict around the world remains very high. 
 Seeing how easy it would be for a country to launch a massive nuclear attack, how can we use our digital identities to try to reduce this existential risk? 
+
 ![Plain VR map](assets/img/photo-1610720707798-6fe21dc165ba.webp) 
 
 ## Digital identities used to protect citizens 
