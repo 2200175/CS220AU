@@ -73,7 +73,7 @@ The report also reveals that 97% of citizens believe that privacy is a right, an
 This research also confirms that many of the ethical challenges we face today are related to power asymmetries: when it comes to data, individuals are systematically at a disadvantage vis-à-vis companies and governments. In this context, the report urges companies to do what they can to empower users and increase their autonomy.
 In addition, it says we should invest more in developing better privacy tools and better digital ethics. "If we invested a fraction of what we are investing in the development of Artificial Intelligence in privacy and ethics, we would have much more reason to be optimistic about the future of the digital age," say the researchers.
 
-#Reference List: 
+# #Reference List: 
 Cover, R. (2015) Digital Identities: Creating and Communicating the Online Self. 1th edn. Academic Press
 
 El Confidencial, “España inicia las pruebas de la nueva alerta de catástrofes: qué hacer si te llega al móvil” (24 october 2022) https://www.elconfidencial.com/espana/2022-10-24/empiezan-pruebas-alerta-movil-catastrofes-emergencias-espana_3511399/ (Accessed: 15 november) 
