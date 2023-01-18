@@ -1,4 +1,5 @@
 Student Registration Number: <!-- #todo : add your student registration number -->    2200175
+
 Module code: CS220AU  
 Coursework title: Digital Portfolio  
 Marker: Dr Krisztián Hofstädter  
